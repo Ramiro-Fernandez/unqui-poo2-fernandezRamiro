@@ -3,6 +3,7 @@ package ar.edu.unq.poo2.tp3;
 public class Punto{
 	private float x;
 	private float y;
+	
 	public Punto(float x, float y) {
 		super();
 		this.setXY(x, y);
